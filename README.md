@@ -1,2 +1,2 @@
-# squilly
+# Squilly
 SQL JEE Webapp
